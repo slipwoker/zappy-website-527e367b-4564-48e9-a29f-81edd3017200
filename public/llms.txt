@@ -1,0 +1,74 @@
+# Tech Adviser Edge — Generative Engine Optimization Map
+
+> A B2B technology adviser company offering a comprehensive suite of technology solutions to businesses, including cloud services, cybersecurity, VoIP communications, and internet connectivity. The brand positions itself as a trusted technology partner helping businesses modernize and secure their infrastructure. The company has a professional, solutions-driven identity targeting decision-makers in the business sector.
+
+---
+
+## Pages
+
+### Home
+https://tech-adviser-edge-527e367b.zappy5.app
+Transform your business infrastructure with elite cloud, cybersecurity, and VoIP solutions rivaling top technology consulting firms. Partner for scalable growth today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://tech-adviser-edge-527e367b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://tech-adviser-edge-527e367b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://tech-adviser-edge-527e367b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://tech-adviser-edge-527e367b.zappy5.app
+- Endpoint: https://tech-adviser-edge-527e367b.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Tech Adviser Edge
+A B2B technology adviser company offering a comprehensive suite of technology solutions to businesses, including cloud services, cybersecurity, VoIP communications, and internet connectivity. The brand positions itself as a trusted technology partner helping businesses modernize and secure their infrastructure. The company has a professional, solutions-driven identity targeting decision-makers in the business sector.
+
+## Services/Products
+- Cloud Solutions
+- Cyber Security
+- VoIP
+- Internet Services
+- Technology Consulting
+
+## Target Audience
+- Businesses (B2B)
+- Medium Enterprises Tech Adoption
+- Startups Seeking Scalability
+- IT Managers in Large Corporations
+
+## Industry
+Technology Solutions & Consulting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://tech-adviser-edge-527e367b.zappy5.app/sitemap.xml
+- Robots: https://tech-adviser-edge-527e367b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://tech-adviser-edge-527e367b.zappy5.app/llms-full.txt
